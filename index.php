@@ -28,18 +28,16 @@
         </div>
     </div>
 </header>
-<div class="container">
+<div class="container mt-5">
 
     <!--Shells Up/Bula-->
     <section id="bula" class="scroll-container text-center pt-5 w-100">
         <div class="scroll-element js-scroll fade-in-bottom">
-            <div class="bg-image-bula">
-                <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6)">
-                    <div class="h-100">
-                        <h3 class="heading neonText mb-3">BULA!</h3>
-                        <div class="mt-5">
-                            <h4 class="mb-3">South Florida's #1 Kava Bar!</h4>
-                        </div>
+            <h3 class="heading neonText">BULA!</h3>
+            <div class="bg-image-bula" style="height:400px;">
+                <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6);height:400px;">
+                    <div class="h-100 d-flex justify-content-center align-items-center">
+                        <h4 class="heading">South Florida's #1 Kava Bar!</h4>
                     </div>
                 </div>
             </div>
