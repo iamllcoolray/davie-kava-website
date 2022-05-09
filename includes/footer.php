@@ -1,4 +1,4 @@
-<footer class="mt-5 py-5">
+<footer id="footer-section" class="mt-5 py-5">
     <div class="row">
         <div class="col-lg-2 mb-2 text-center neonText">
             <a href="/"><img src="img/logo/davie-kava-logo-no-bg.png" alt="Davie Kava logo without background" width="100" height="100"></a>
@@ -37,13 +37,10 @@
 
         <div class="col-lg-4 mb-2 text-center">
             <form>
-                <h5 class="neonText">Subscribe to our newsletter</h5>
-                <p>Monthly digest of whats new and exciting from us.</p>
-                <div class="d-flex w-100 gap-2">
-                    <label for="newsletter1" class="visually-hidden">Email address</label>
-                    <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                    <button class="btn btn-outline neonFlickerText" role="button">Subscribe</button>
-                </div>
+                <h5 class="neonText">Kava With A Bite!</h5>
+                <p>
+                    We are open 365 days a year, including holidays. On occasion, we are open 24 hours for special events and film festivals.
+                </p>
             </form>
         </div>
     </div>
@@ -51,9 +48,11 @@
     <div class="d-flex justify-content-between py-4 my-4 border-top">
         <p class="neonText">&copy; 2022 Davie Kava, All rights reserved.</p>
         <ul class="list-unstyled d-flex">
-            <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.instagram.com/daviekava/" target="_blank"><i class="bi bi-instagram"></i></a></li>
             <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.facebook.com/daviekava/" target="_blank"><i class="bi bi-facebook"></i></a></li>
-            <li class="ms-3"><a class="link-dark neonFlickerText" href="#" target="_blank"><i class="bi bi-twitter"></i></a></li>
+            <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.instagram.com/daviekava/" target="_blank"><i class="bi bi-instagram"></i></a></li>
+            <li class="ms-3"><a class="link-dark neonFlickerText" href="https://twitter.com/daviekava" target="_blank"><i class="bi bi-twitter"></i></a></li>
+            <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.youtube.com/channel/UCXzfc50DjEKCV3Sc-ZhYinA" target="_blank"><i class="bi bi-youtube"></i></a></li>
+            <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.tiktok.com/@davie_kava" target="_blank"><i class="bi bi-tiktok"></i></a></li>
         </ul>
     </div>
 </footer>
@@ -63,6 +62,49 @@
 
 <!--Custom JS-->
 <script src="js/functions.js" crossorigin="anonymous"></script>
+
+<!--Contact Form Validation-->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function validateContactForm() {
+        var valid = true;
+
+        $(".info").html("");
+        $(".input-field").css('border', '#e0dfdf 1px solid');
+        var userName = $("#userName").val();
+        var userEmail = $("#userEmail").val();
+        var subject = $("#subject").val();
+        var content = $("#content").val();
+
+        if (userName == "") {
+            $("#userName-info").html("Required.");
+            $("#userName").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+        if (userEmail == "") {
+            $("#userEmail-info").html("Required.");
+            $("#userEmail").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+        if (!userEmail.match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+            $("#userEmail-info").html("Invalid Email Address.");
+            $("#userEmail").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+
+        if (subject == "") {
+            $("#subject-info").html("Required.");
+            $("#subject").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+        if (content == "") {
+            $("#userMessage-info").html("Required.");
+            $("#content").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+        return valid;
+    }
+</script>
 
 </body>
 
