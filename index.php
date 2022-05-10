@@ -44,7 +44,7 @@
     </section>
 
     <!--Weekly Events-->
-    <section class="scroll-container text-center pt-5 w-100">
+    <section class="scroll-container text-center mt-5 w-100">
         <h3 class="heading neonText">Weekly Events</h3>
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
             <div class="carousel-indicators">
@@ -87,7 +87,7 @@
                     <img src="img/landing-carousel/kava-pour-3.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
-                            WTHURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
+                            THURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
                         </h5>
                         <p>
                             Mario Kart Tournaments are every 1st & 3rd Wednesday from 8 pm - 11 pm.<br>
