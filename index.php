@@ -43,6 +43,75 @@
             </div>
     </section>
 
+    <!--Weekly Events-->
+    <section class="scroll-container text-center pt-5 w-100">
+        <h3 class="heading neonText">Weekly Events</h3>
+        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/landing-carousel/kava-pour-1.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                        <h5>
+                            TUESDAYS are LADIES NIGHTS, TRIVIA, & SOUND HEALING
+                        </h5>
+                        <p>
+                            Ladies Night is Every Tuesday from 7 pm - Close.<br>
+
+                            Every 1st & 3rd Tuesday is Trivia Night hosted by @eddie.trivia.<br>
+
+                            Sound Healing by Austin and Vrish of @project.equilibrium is every Tuesday at 10 pm. Session is free, but tips are appreciated and encouraged.<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/landing-carousel/kava-pour-2.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                        <h5>
+                            WEDNESDAYS are KARAOKE / OPEN MIC NIGHTS
+                        </h5>
+                        <p>
+                            Karaoke is every 1st & 3rd Wednesday from 8 pm - 11 pm.<br>
+
+                            Open Mic is every 2nd & 4th Wednesday from 8 pm - 11 pm.<br>
+
+                            To sing karaoke - text 954-418-2085 - include your name, the artist, & song you would like to sing.<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/landing-carousel/kava-pour-3.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                        <h5>
+                            WTHURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
+                        </h5>
+                        <p>
+                            Mario Kart Tournaments are every 1st & 3rd Wednesday from 8 pm - 11 pm.<br>
+
+                            Smash Bros Tournaments are every 2nd & 4th Wednesday from 8 pm - 11 pm.<br>
+
+                            TOURNAMENT WINNERS EARN THEIR NAME ON THE TROPHY FOR THE WEEK & A PITCHER OF HAPPY TEA.<br>
+
+                            If a 5th Wednesday occurs, it is an open play night of Mario v. Sonic Olympics & Mario Party Superstars.<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+
     <!--Menu-->
     <section id="menu" class="mt-5">
         <div class="py-5 scroll-element js-scroll fade-in-bottom text-center">
