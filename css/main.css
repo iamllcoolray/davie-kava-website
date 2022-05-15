@@ -85,6 +85,19 @@ p, h4, h5, label, .aliceblue-text{
         0 0 151px #00FF7F;
   }
 
+  .neonTextRed {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #FF0009,
+        0 0 82px #FF0009,
+        0 0 92px #FF0009,
+        0 0 102px #FF0009,
+        0 0 151px #FF0009;
+  }
+
   .neonTextOrange {
     color: #fff;
     text-shadow:
@@ -96,6 +109,19 @@ p, h4, h5, label, .aliceblue-text{
         0 0 92px #FFA400,
         0 0 102px #FFA400,
         0 0 151px #FFA400;
+  }
+
+  .neonTextWhite {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #00F6FF,
+        0 0 82px #00F6FF,
+        0 0 92px #00F6FF,
+        0 0 102px #00F6FF,
+        0 0 151px #00F6FF;
   }
 
 .neonFlickerText {
