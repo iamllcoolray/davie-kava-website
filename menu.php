@@ -9,7 +9,7 @@
             <h4 class="pb-3">Kava</h4>
             <p>$5/$9 - Dragons Blood <br> (Kava with Dragon Fruit)</p>
             <p>$4/$7 - Borogu <br> (Vanuatu)</p>
-            <p>$6/10 - 20 Year <br> (Hawaii)</p>
+            <p>$6/$10 - 20 Year <br> (Hawaii)</p>
             <p>$8/$13 - Kraft <br> (Fiji)</p>
             <p>$13 - Dawn of the Dead</p>
             <p>$6 - Leilo Kava Soda <br> (Lemon Ginger & Raspberry Hibiscus)</p>
