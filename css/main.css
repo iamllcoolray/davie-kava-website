@@ -51,7 +51,7 @@
     position: relative;
 }
 
-p, h4, label, .aliceblue-text{
+p, h4, h5, label, .aliceblue-text{
     color: aliceblue;
 }
 
