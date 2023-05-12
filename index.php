@@ -6,13 +6,13 @@
             <div id=" carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/landing-carousel/kava-pour-1.jpg" class="d-block w-100" alt="...">
+                        <img src="img/landing-carousel/kava-1.png" class="d-block w-100" height="1500" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="img/landing-carousel/kava-pour-2.jpg" class="d-block w-100" alt="...">
+                        <img src="img/landing-carousel/kava-2.png" class="d-block w-100" height="1500" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="img/landing-carousel/kava-pour-3.jpg" class="d-block w-100" alt="...">
+                        <img src="img/landing-carousel/kava-3.png" class="d-block w-100" height="1500" alt="...">
                     </div>
                 </div>
             </div>
@@ -54,8 +54,8 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/landing-carousel/kava-pour-1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <img src="img/landing-carousel/trivia.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             TUESDAYS are LADIES NIGHTS, TRIVIA, & SOUND HEALING
                         </h5>
@@ -69,8 +69,8 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/landing-carousel/kava-pour-2.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <img src="img/landing-carousel/karaoke-open-mic.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             WEDNESDAYS are KARAOKE / OPEN MIC NIGHTS
                         </h5>
@@ -84,8 +84,8 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/landing-carousel/kava-pour-3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <img src="img/landing-carousel/switch.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             THURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
                         </h5>
@@ -120,9 +120,9 @@
                 <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6)">
                     <div class="h-100">
                         <div class="row">
-                            <img src="img/shells/kava-shell-no-bg.png" alt="" class="col-lg-4 img-fluid">
-                            <img src="img/shells/kava-shell-no-bg.png" alt="" class="col-lg-4 img-fluid">
-                            <img src="img/shells/kava-shell-no-bg.png" alt="" class="col-lg-4 img-fluid">
+                            <img src="img/specialty-drinks/kava-shell.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
+                            <img src="img/specialty-drinks/blue-happy-tea.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
+                            <img src="img/specialty-drinks/cold-brew.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
                         </div>
                         <div class="mt-5">
                             <h4 class="mb-3">Check Out Our Full Menu!</h4>
@@ -139,6 +139,7 @@
     <section id="about" class="mt-5">
         <div class="py-5 text-center scroll-element js-scroll fade-in-bottom">
             <h3 class="heading neonText py-3">What is Kava?</h3>
+            <video src="videos/promo/davie-kava-promo.mp4" class="object-fit-contain" width="400" controls></video>
             <h4 class="py-3">To Learn More About Us</h4>
             <a class="btn neonFlickerText py-3" href="about.php" role="button">Click Here</a>
         </div>

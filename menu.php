@@ -7,6 +7,7 @@
     <div class="pb-5 row text-center">
         <section id="kava" class="col-lg-6">
             <h4 class="pb-3">Kava</h4>
+            <img src="img/specialty-drinks/kava-shell.png" alt="" class="col-lg-4 img-fluid" width="200" height="225">
             <h5 class="py-3 neonTextGreen">Shells</h5>
             <p>$5/$9 - Dragons Blood <br> (Kava with Dragon Fruit)</p>
             <p>$4/$7 - Borogu <br> (Vanuatu)</p>
@@ -17,6 +18,7 @@
         </section>
         <section id="coffee-drinks" class="col-lg-6 ms-auto">
             <h4 class="pb-3">Coffee Drinks</h4>
+            <img src="img/specialty-drinks/cold-brew.png" alt="" class="col-lg-4 img-fluid" width="200" height="225">
             <div class="row">
                 <div class="col-lg-6">
                     <h5 class="py-3 neonTextRed">Cold Brews</h5>
@@ -34,6 +36,7 @@
     </div>
     <section id="happy-teas" class="text-center">
         <h4 class="pb-3">Happy Teas</h4>
+        <img src="img/specialty-drinks/blue-happy-tea.png" alt="" class="col-lg-4 img-fluid" width="200" height="225">
         <div class="mb-3 row">
             <div class="col-lg-6">
                 <h5 class="py-3 neonTextGreen">Green Happy Teas</h5>
