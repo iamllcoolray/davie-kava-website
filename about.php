@@ -96,26 +96,21 @@
                 <i class="bi bi-twitter"></i>
             </a>
         </div>
+        <!--
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/IMG_3569.png" alt="" width="250" height="200" class="pb-3">
-            <h4 class="neonText">Eric Michael</h4>
+            <img src="img/staff/place-holder.jpg" alt="" width="200" height="275" class="rounded-circle pb-3">
+            <h4 class="neonText">Staff</h4>
             <p>Bartender</p>
-            <p>
-                5 years in the Kava community<br>
-                2 years of experience as a Kavatender<br>
-                <span class="neonText">Favorite Drink:</span> Red/White Tea with Lemon Juice and Agave
-            </p>
-            <a href="https://www.instagram.com/ericonthemic/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <a href="https://www.instagram.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
-            <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-facebook s-link-bio"></i>
             </a>
             <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
                 <i class="bi bi-twitter"></i>
-            </a>-->
+            </a>
         </div>
-        <!--
         <div class="col-lg-4 mb-4">
             <img src="img/staff/place-holder.jpg" alt="" width="200" height="275" class="rounded-circle pb-3">
             <h4 class="neonText">Staff</h4>
