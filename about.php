@@ -51,17 +51,17 @@
     <div class="row text-center">
         <div class="col-lg-4 mb-4">
             <img src="img/staff/IMG_3423.png" alt="" width="200" height="275" class="pb-3">
-            <h4 class="neonText">James Carrey</h4>
+            <h4 class="neonText">James</h4>
             <p>Owner</p>
-            <a href="https://www.instagram.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <a href="https://www.instagram.com/jamescarreymusic/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
-            <a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-facebook s-link-bio"></i>
             </a>
             <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
                 <i class="bi bi-twitter"></i>
-            </a>
+            </a>-->
         </div>
         <div class="col-lg-4 mb-4">
             <img src="img/staff/IMG_5014.png" alt="" width="250" height="200" class="pb-3">
@@ -84,17 +84,17 @@
         </div>
         <div class="col-lg-4 mb-4">
             <img src="img/staff/IMG_5015.png" alt="" width="250" height="200" class="pb-3">
-            <h4 class="neonText">Staff</h4>
+            <h4 class="neonText">Chris</h4>
             <p>Bartender</p>
             <a href="https://www.instagram.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
-            <a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-facebook s-link-bio"></i>
             </a>
             <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
                 <i class="bi bi-twitter"></i>
-            </a>
+            </a>-->
         </div>
         <!--
         <div class="col-lg-4 mb-4">
