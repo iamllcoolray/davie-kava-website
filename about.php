@@ -53,6 +53,9 @@
             <img src="img/staff/IMG_3423.png" alt="" width="200" height="275" class="pb-3">
             <h4 class="neonText">James</h4>
             <p>Owner</p>
+            <p>
+                <span class="neonText">Favorite Drink:</span> Suspiria
+            </p>
             <a href="https://www.instagram.com/jamescarreymusic/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
@@ -68,8 +71,6 @@
             <h4 class="neonText">Nykki</h4>
             <p>Bartender</p>
             <p>
-                8 years in the Kava community<br>
-                2 years of experience as a Bartender/Kavatender<br>
                 <span class="neonText">Favorite Drink:</span> Kamen Rider Mocktail
             </p>
             <a href="https://www.instagram.com/macii_bunni/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
