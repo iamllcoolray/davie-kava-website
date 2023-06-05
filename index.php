@@ -31,8 +31,7 @@
 <div class="container mt-5">
 
     <!--Shells Up/Bula-->
-    <section id="bula" class="scroll-container text-center pt-5 w-100">
-        <div class="scroll-element js-scroll fade-in-bottom">
+    <section id="bula" class="text-center pt-5 w-100">
             <h3 class="heading neonText">BULA!</h3>
             <div class="bg-image-bula" style="height:400px;">
                 <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6);height:400px;">
@@ -44,7 +43,7 @@
     </section>
 
     <!--Weekly Events-->
-    <section class="scroll-container text-center mt-5 w-100">
+    <section class=" text-center mt-5 w-100">
         <h3 class="heading neonText">Weekly Events</h3>
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
             <div class="carousel-indicators">
@@ -114,7 +113,7 @@
 
     <!--Menu-->
     <section id="menu" class="mt-5">
-        <div class="py-5 scroll-element js-scroll fade-in-bottom text-center">
+        <div class="py-5 text-center">
             <h3 class="heading neonText">Our Menu</h3>
             <div class="bg-image-menu">
                 <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6)">
@@ -137,7 +136,7 @@
 
     <!--About-->
     <section id="about" class="mt-5">
-        <div class="py-5 text-center scroll-element js-scroll fade-in-bottom">
+        <div class="py-5 text-center">
             <h3 class="heading neonText py-3">What is Kava?</h3>
             <video src="videos/promo/davie-kava-promo.mp4" class="object-fit-contain" width="400" controls></video>
             <h4 class="py-3">To Learn More About Us</h4>
@@ -147,7 +146,7 @@
 
     <!--Clover/Eventbrite-->
     <section id="promos&events" class="mt-5">
-        <div class="py-5 text-center scroll-element js-scroll fade-in-bottom">
+        <div class="py-5 text-center">
             <h3 class="heading neonText py-3">Promotions and Special Events</h3>
             <div class="row">
                 <div class="col-lg-4">
