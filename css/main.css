@@ -36,7 +36,7 @@
 }
 
 .bg-image-bula{
-    background-image: url("/img/bg-imgs/kava-bula.png");
+    background-image: url("../img/bg-imgs/kava-bula.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +44,7 @@
 }
 
 .bg-image-menu{
-    background-image: url("/img/bg-imgs/palm-trees.jpg");
+    background-image: url("../img/bg-imgs/palm-trees.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
