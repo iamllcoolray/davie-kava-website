@@ -6,13 +6,13 @@
             <div id=" carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/landing-carousel/kava-1.png" class="d-block w-100" height="1500" alt="...">
+                        <img src="img/landing-carousel/kava-1.png" class="d-block w-100 h-100"  alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="img/landing-carousel/kava-2.png" class="d-block w-100" height="1500" alt="...">
+                        <img src="img/landing-carousel/kava-2.png" class="d-block w-100 h-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="img/landing-carousel/kava-3.png" class="d-block w-100" height="1500" alt="...">
+                        <img src="img/landing-carousel/kava-3.png" class="d-block w-100 h-100" alt="...">
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
 
     <!--Shells Up/Bula-->
     <section id="bula" class="text-center pt-5 w-100">
-            <h3 class="heading neonText">BULA!</h3>
+            <h3 class="heading neonText pt-5">BULA!</h3>
             <div class="bg-image-bula" style="height:400px;">
                 <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6);height:400px;">
                     <div class="h-100 d-flex justify-content-center align-items-center">
@@ -44,7 +44,7 @@
 
     <!--Weekly Events-->
     <section class=" text-center mt-5 w-100">
-        <h3 class="heading neonText">Weekly Events</h3>
+        <h3 class="heading neonText pt-5">Weekly Events</h3>
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
