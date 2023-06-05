@@ -102,7 +102,9 @@
                 <p>Apocalypto <br> (Limoncello, Orange & Grapefruit)</p>
             </div>
         </div>
-        <p>(Extract Boost $3, OGs $5, Flavored Teas $6, Mocktails $7, Apocalypto or Nitro $8, and Endgame $13)</p>
+        <div class="mt-5">
+            <p>(Extract Boost $3, OGs $5, Flavored Teas $6, Mocktails $7, Apocalypto or Nitro $8, and Endgame $13)</p>
+        </div>
     </section>
     <section id="other-beverages" class="pb-5 text-center border-top">
         <h4 class="pt-5 pb-3">Other Beverages</h4>
