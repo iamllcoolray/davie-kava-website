@@ -6,7 +6,7 @@
     </div>
     <div class="row">
         <div class="col-lg-4 mb-4 text-center">
-            <img src="img/logo/davie-kava-logo-no-bg.png" alt="davie kava logo" width="400" height="400" class="rounded-circle">
+            <img src="img/logo/davie-kava-logo-no-bg.png" alt="davie kava logo" width="300" height="300" class="rounded-circle">
         </div>
         <div class="col-lg-4 mb-4 ms-auto">
             <p>
