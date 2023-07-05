@@ -250,7 +250,7 @@ video {
     width: 350px;
 }
 
-@media screen and (max-width: 720) {
+@media screen and (min-width: 720) {
     video {
         width: 700px;
     }
