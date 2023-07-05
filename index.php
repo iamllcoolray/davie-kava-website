@@ -138,7 +138,7 @@
     <section id="about" class="mt-5">
         <div class="py-5 text-center">
             <h3 class="heading neonText py-3">What is Kava?</h3>
-            <video src="videos/promo/davie-kava-promo.mp4" class="object-fit-contain" width="350" controls></video>
+            <video src="videos/promo/davie-kava-promo.mp4" class="object-fit-contain" controls></video>
             <h4 class="py-3">To Learn More About Us</h4>
             <a class="btn neonFlickerText py-3" href="about.php" role="button">Click Here</a>
         </div>

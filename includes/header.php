@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Davie Kava | <?php echo $page_name; ?></title>
     <link rel="icon" type="image/x-icon" href="/img/favicon/favicon.ico">

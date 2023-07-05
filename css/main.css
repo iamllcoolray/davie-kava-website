@@ -245,3 +245,19 @@ body {
         opacity: 1;
     }
 }
+
+video {
+    width: 350px;
+}
+
+@media screen and (max-width: 720) {
+    video {
+        width: 700px;
+    }
+}
+
+@media screen and (min-width: 480) {
+    video {
+        width: 400px;
+    }
+}
