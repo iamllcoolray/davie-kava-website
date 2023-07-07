@@ -119,9 +119,9 @@
                 <div class="p-5" style="background-color: rgba(0, 0, 0, 0.6)">
                     <div class="h-100">
                         <div class="row">
-                            <img src="img/specialty-drinks/kava-shell.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
-                            <img src="img/specialty-drinks/blue-happy-tea.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
-                            <img src="img/specialty-drinks/cold-brew.png" alt="" class="col-lg-4 img-fluid mb-3" width="300" height="325">
+                            <img src="img/specialty-drinks/kava-shell.png" alt="" class="col-lg-4 img-fluid mb-3" width="100" height="125">
+                            <img src="img/specialty-drinks/blue-happy-tea.png" alt="" class="col-lg-4 img-fluid mb-3" width="100" height="125">
+                            <img src="img/specialty-drinks/cold-brew.png" alt="" class="col-lg-4 img-fluid mb-3" width="100" height="125">
                         </div>
                         <div class="mt-5">
                             <h4 class="mb-3">Check Out Our Full Menu!</h4>
