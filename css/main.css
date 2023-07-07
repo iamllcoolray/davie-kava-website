@@ -250,14 +250,14 @@ video {
     width: 350px;
 }
 
-@media screen and (min-width: 720) {
+@media screen and (min-width: 720px) {
     video {
         width: 700px;
     }
 }
 
-@media screen and (min-width: 480) {
+@media screen and (min-width: 480px) {
     video {
-        width: 400px;
+        width: 460px;
     }
 }
