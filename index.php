@@ -54,7 +54,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="img/landing-carousel/trivia.png" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             TUESDAYS are LADIES NIGHTS, TRIVIA, & SOUND HEALING
                         </h5>
@@ -65,11 +65,11 @@
 
                             Sound Healing by Austin and Vrish of @project.equilibrium is every Tuesday at 10 pm. Session is free, but tips are appreciated and encouraged.<br>
                         </p>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="carousel-item">
                     <img src="img/landing-carousel/karaoke-open-mic.png" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             WEDNESDAYS are KARAOKE / OPEN MIC NIGHTS
                         </h5>
@@ -80,11 +80,11 @@
 
                             To sing karaoke - text 954-418-2085 - include your name, the artist, & song you would like to sing.<br>
                         </p>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="carousel-item">
                     <img src="img/landing-carousel/switch.png" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
+                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
                         <h5>
                             THURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
                         </h5>
@@ -97,7 +97,7 @@
 
                             If a 5th Wednesday occurs, it is an open play night of Mario v. Sonic Olympics & Mario Party Superstars.<br>
                         </p>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
