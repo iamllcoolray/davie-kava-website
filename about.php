@@ -9,8 +9,13 @@
             <img src="img/logo/davie-kava-logo-no-bg.png" alt="davie kava logo" width="300" height="300" class="rounded-circle">
         </div>
         <div class="col-lg-4 mb-4 ms-auto">
+            <h4>South Florida's #1 Kava Bar!</h4>
+            <p>We are serving up kava with a bite!</p>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                We are open 365 days a year, including holidays. On occasion, we are open 24 hours for special events and film festivals.
+            </p>
+            <p>
+                We love our customers, so feel free to visit during normal business hours located <a href="#footer-section" class="text-decoration-none link-dark neonFlickerText" role="button">below</a>.
             </p>
         </div>
     </div>
