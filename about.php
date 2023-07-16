@@ -87,7 +87,10 @@
             <img src="img/staff/IMG_5015.png" alt="" width="250" height="200" class="pb-3">
             <h4 class="neonText">Chris</h4>
             <p>Bartender</p>
-            <a href="https://www.instagram.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+            <p>
+                <span class="neonText">Favorite Drink:</span> Samurai Cop BOOSTED
+            </p>
+            <a href="https://www.instagram.com/kaiser_meng/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
             <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
