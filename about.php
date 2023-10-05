@@ -55,7 +55,7 @@
     </div>
     <div class="row text-center">
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/IMG_3423.png" alt="" width="200" height="275" class="pb-3">
+            <img src="img/staff/james.png" alt="" width="200" height="275" class="pb-3">
             <h4 class="neonText">James</h4>
             <p>Owner</p>
             <p>
@@ -71,25 +71,8 @@
                 <i class="bi bi-twitter"></i>
             </a>-->
         </div>
-        <!--<div class="col-lg-4 mb-4">
-            <img src="img/staff/IMG_5014.png" alt="" width="250" height="200" class="pb-3">
-            <h4 class="neonText">Nykki</h4>
-            <p>Bartender</p>
-            <p>
-                <span class="neonText">Favorite Drink:</span> Kamen Rider Mocktail
-            </p>
-            <a href="https://www.instagram.com/macii_bunni/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
-                <i class="bi bi-instagram s-link-bio"></i>
-            </a>
-            <a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
-                <i class="bi bi-facebook s-link-bio"></i>
-            </a>
-            <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
-                <i class="bi bi-twitter"></i>
-            </a>
-        </div>-->
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/IMG_5015.png" alt="" width="250" height="200" class="pb-3">
+            <img src="img/staff/chris-bk-bg.png" alt="" width="250" height="200" class="pb-3">
             <h4 class="neonText">Chris</h4>
             <p>Bartender</p>
             <p>
@@ -99,6 +82,23 @@
                 <i class="bi bi-instagram s-link-bio"></i>
             </a>
             <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+                <i class="bi bi-facebook s-link-bio"></i>
+            </a>
+            <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
+                <i class="bi bi-twitter"></i>
+            </a>-->
+        </div>
+        <div class="col-lg-4 mb-4">
+            <img src="img/staff/lea-bk-bg.png" alt="" width="250" height="350" class="pb-3">
+            <h4 class="neonText">Lea</h4>
+            <p>Bartender</p>
+            <p>
+                <span class="neonText">Favorite Drink:</span> Twisted Pair
+            </p>
+            <a href="https://www.instagram.com/lea.kchxo/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
+                <i class="bi bi-instagram s-link-bio"></i>
+            </a>
+           <!--<a href="https://www.facebook.com/daviekava/" class="text-decoration-none link-dark neonFlickerText" target="_blank">
                 <i class="bi bi-facebook s-link-bio"></i>
             </a>
             <a class="text-decoration-none link-dark neonFlickerText" href="#" target="_blank">
