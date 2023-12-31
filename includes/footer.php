@@ -46,7 +46,7 @@
     </div>
 
     <div class="d-flex justify-content-between py-4 my-4 border-top">
-        <p class="neonText">&copy; 2022 Davie Kava, All rights reserved.</p>
+        <p class="neonText">&copy; <?php echo date("Y"); ?> Davie Kava, All rights reserved.</p>
         <ul class="list-unstyled d-flex">
             <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.facebook.com/daviekava/" target="_blank"><i class="bi bi-facebook"></i></a></li>
             <li class="ms-3"><a class="link-dark neonFlickerText" href="https://www.instagram.com/daviekava/" target="_blank"><i class="bi bi-instagram"></i></a></li>
