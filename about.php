@@ -55,7 +55,7 @@
     </div>
     <div class="row text-center">
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/james.png" alt="" width="300" height="375" class="pb-3">
+            <img src="img/staff/james-dk-bg.png" alt="" width="250" height="350" class="pb-3">
             <h4 class="neonText">James</h4>
             <p>Owner</p>
             <p>
@@ -72,7 +72,7 @@
             </a>-->
         </div>
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/chris-bk-bg.png" alt="" width="350" height="300" class="pb-3">
+            <img src="img/staff/chris-dk-bg.png" alt="" width="350" height="300" class="pb-3">
             <h4 class="neonText">Chris</h4>
             <p>Bartender</p>
             <p>
@@ -89,7 +89,7 @@
             </a>-->
         </div>
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/lea-bk-bg.png" alt="" width="250" height="350" class="pb-3">
+            <img src="img/staff/lea-dk-bg.png" alt="" width="250" height="350" class="pb-3">
             <h4 class="neonText">Lea</h4>
             <p>Bartender</p>
             <p>
@@ -106,7 +106,7 @@
             </a>-->
         </div>
         <div class="col-lg-4 mb-4">
-            <img src="img/staff/sarah-beth-bk-bg.png" alt="" width="350" height="300" class="pb-3">
+            <img src="img/staff/sarah-beth-dk-bg.png" alt="" width="350" height="300" class="pb-3">
             <h4 class="neonText">Sarah Beth</h4>
             <p>Bartender</p>
             <p>
