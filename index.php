@@ -54,50 +54,12 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="img/landing-carousel/trivia.png" class="d-block w-100" alt="...">
-                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
-                        <h5>
-                            TUESDAYS are LADIES NIGHTS, TRIVIA, & SOUND HEALING
-                        </h5>
-                        <p>
-                            Ladies Night is Every Tuesday from 7 pm - Close.<br>
-
-                            Every 1st & 3rd Tuesday is Trivia Night hosted by @eddie.trivia.<br>
-
-                            Sound Healing by Austin and Vrish of @project.equilibrium is every Tuesday at 10 pm. Session is free, but tips are appreciated and encouraged.<br>
-                        </p>
-                    </div>-->
                 </div>
                 <div class="carousel-item">
                     <img src="img/landing-carousel/karaoke-open-mic.png" class="d-block w-100" alt="...">
-                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
-                        <h5>
-                            WEDNESDAYS are KARAOKE / OPEN MIC NIGHTS
-                        </h5>
-                        <p>
-                            Karaoke is every 1st & 3rd Wednesday from 8 pm - 11 pm.<br>
-
-                            Open Mic is every 2nd & 4th Wednesday from 8 pm - 11 pm.<br>
-
-                            To sing karaoke - text 954-418-2085 - include your name, the artist, & song you would like to sing.<br>
-                        </p>
-                    </div>-->
                 </div>
                 <div class="carousel-item">
                     <img src="img/landing-carousel/switch.png" class="d-block w-100" alt="...">
-                    <!--<div class="carousel-caption d-none d-md-block p-3" style="background-color: rgba(0, 0, 0, 0.6);">
-                        <h5>
-                            THURSDAYS are VIDEO GAME TOURNAMENT NIGHTS
-                        </h5>
-                        <p>
-                            Mario Kart Tournaments are every 1st & 3rd Wednesday from 8 pm - 11 pm.<br>
-
-                            Smash Bros Tournaments are every 2nd & 4th Wednesday from 8 pm - 11 pm.<br>
-
-                            TOURNAMENT WINNERS EARN THEIR NAME ON THE TROPHY FOR THE WEEK & A PITCHER OF HAPPY TEA.<br>
-
-                            If a 5th Wednesday occurs, it is an open play night of Mario v. Sonic Olympics & Mario Party Superstars.<br>
-                        </p>
-                    </div>-->
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -108,6 +70,16 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
+        </div>
+        <h4 class="pt-5 pb-3">All of Our Weekly Events</h4>
+        <div class="py-3">
+            <p><span class="neonText">MONDAY</span> - Bad Movie Night (Followed by Trivia) 8 p.m. - 10:30 p.m.</p>
+            <p><span class="neonText">TUESDAY</span> - Ladies Night 7 p.m. - 1 a.m.</p>
+            <p><span class="neonText">WEDNESDAY</span> - Open Mic Hosted by James 8 p.m. - 11 p.m.</p>
+            <p><span class="neonText">THURSDAY</span> - Video Game Tournament Rotating (Every 1st & 3rd) <br> Smash Bros. (Every 2nd & 4th) 8 p.m. - 11 p.m.</p>
+            <p><span class="neonText">FRIDAY</span> - Film Fridays New Movies @ 8 p.m. Grindhouse Films @ 1 a.m.</p>
+            <p><span class="neonText">SATURDAY</span> - Live Shows (Music, Comedy, DJs, Events, & More)</p>
+            <p><span class="neonText">SUNDAY</span> - All Day Happy Hour (25% OFF Regular Kava & Happy Teass) College Night 7 p.m. - 1 a.m. Srudents w/ ID get 50% OFF</p>
         </div>
     </section>
 
