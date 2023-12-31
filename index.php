@@ -138,7 +138,7 @@
     <section id="about" class="mt-5">
         <div class="py-5 text-center">
             <h3 class="heading neonText py-3">What is Kava?</h3>
-            <video src="videos/promo/davie-kava-promo.mp4" class="object-fit-contain" controls></video>
+            <video src="videos/promo/davie-kava-promo-video.mp4" class="object-fit-contain" controls></video>
             <h4 class="py-3">To Learn More About Us</h4>
             <a class="btn neonFlickerText py-3" href="about.php" role="button">Click Here</a>
         </div>
@@ -150,7 +150,7 @@
             <h3 class="heading neonText py-3">Promotions and Special Events</h3>
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="img/logo/clover.jpg" alt="" class="rounded img-fluid">
+                    <img src="img/logo/clover.jpg" alt="" class="promo rounded img-fluid">
                     <h4 class="neonTextGreen py-3">Clover</h4>
                     <p>
                         Download the Clover App and find our great deals and promotions there!
@@ -159,7 +159,7 @@
                     <a class="btn neonFlickerText py-3" href="https://play.google.com/store/apps/details?id=com.getperka.android&gl=US" target="_blank" role="button">Android</a>
                 </div>
                 <div class="col-lg-4 ms-auto">
-                    <img src="img/logo/eventbrite.png" alt="" class="rounded img-fluid">
+                    <img src="img/logo/eventbrite.png" alt="" class="promo rounded img-fluid">
                     <h4 class="neonTextOrange py-3">Eventbrite</h4>
                     <p>
                         Download the Eventbrite App to see and sign up for all our upcoming events!
