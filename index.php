@@ -45,6 +45,15 @@
     <!--Weekly Events-->
     <section class=" text-center mt-5 w-100">
         <h3 class="heading neonText pt-5">Weekly Events</h3>
+        <div class="py-5">
+            <p><span class="neonText">MONDAY</span> - Bad Movie Night (Followed by Trivia) 8 p.m. - 10:30 p.m.</p>
+            <p><span class="neonText">TUESDAY</span> - Ladies Night 7 p.m. - 1 a.m.</p>
+            <p><span class="neonText">WEDNESDAY</span> - Open Mic Hosted by James 8 p.m. - 11 p.m.</p>
+            <p><span class="neonText">THURSDAY</span> - Video Game Tournament Rotating (Every 1st & 3rd) Smash Bros. (Every 2nd & 4th) 8 p.m. - 11 p.m.</p>
+            <p><span class="neonText">FRIDAY</span> - Film Fridays New Movies @ 8 p.m. Grindhouse Films @ 1 a.m.</p>
+            <p><span class="neonText">SATURDAY</span> - Live Shows (Music, Comedy, DJs, Events, & More)</p>
+            <p><span class="neonText">SUNDAY</span> - All Day Happy Hour (25% OFF Regular Kava & Happy Teass) College Night 7 p.m. - 1 a.m. Srudents w/ ID get 50% OFF</p>
+        </div>
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="1000">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -70,16 +79,6 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
-        </div>
-        <h4 class="pt-5 pb-3">All of Our Weekly Events</h4>
-        <div class="py-3">
-            <p><span class="neonText">MONDAY</span> - Bad Movie Night (Followed by Trivia) 8 p.m. - 10:30 p.m.</p>
-            <p><span class="neonText">TUESDAY</span> - Ladies Night 7 p.m. - 1 a.m.</p>
-            <p><span class="neonText">WEDNESDAY</span> - Open Mic Hosted by James 8 p.m. - 11 p.m.</p>
-            <p><span class="neonText">THURSDAY</span> - Video Game Tournament Rotating (Every 1st & 3rd) <br> Smash Bros. (Every 2nd & 4th) 8 p.m. - 11 p.m.</p>
-            <p><span class="neonText">FRIDAY</span> - Film Fridays New Movies @ 8 p.m. Grindhouse Films @ 1 a.m.</p>
-            <p><span class="neonText">SATURDAY</span> - Live Shows (Music, Comedy, DJs, Events, & More)</p>
-            <p><span class="neonText">SUNDAY</span> - All Day Happy Hour (25% OFF Regular Kava & Happy Teass) College Night 7 p.m. - 1 a.m. Srudents w/ ID get 50% OFF</p>
         </div>
     </section>
 
